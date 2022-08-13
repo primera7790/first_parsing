@@ -1,4 +1,4 @@
-# health_diet_parser
+# health_diet_parser.py
 Сollects a list of products with calories, proteins, fats and carbohydrates. Saves in csv, json and html files.
 
 # notes
