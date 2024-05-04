@@ -15,19 +15,19 @@
 2. Установить зависимости, указанные в файле `requirements.txt` ;
 3. Запустить файл `health_diet_parser.py` .
   
-## Подробнее:
+## Нагляднее:
 
-### Данные на сайте:
+- ### Данные на сайте:
 <p>
   <img width='600px' src='https://github.com/primera7790/health_diet_parser/blob/main/data/images/site.PNG' alt='website_data'/>
 </p>
 
-### Процесс исполнения:
+- ### Процесс исполнения:
 <p>
   <img width='400px' src='https://github.com/primera7790/health_diet_parser/blob/main/data/images/work_process.PNG' alt='process'/>
 </p>
 
-### Фрагмент одной из результирующих таблиц:
+- ### Фрагмент одной из результирующих таблиц:
 <p>
   <img width='800px' src='https://github.com/primera7790/health_diet_parser/blob/main/data/images/result_table_small.PNG' alt='result_table'/>
 </p>
